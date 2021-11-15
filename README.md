@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!-- Ref https://github.com/antonkomarev/github-profile-views-counter -->
+![](https://komarev.com/ghpvc/?username=chendotjs)
+
 ![](https://hit.yhype.me/github/profile?user_id=5611297)
 
 <!--
