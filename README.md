@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://hit.yhype.me/github/profile?user_id=5611297)
+
 <!--
 **chendotjs/chendotjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
